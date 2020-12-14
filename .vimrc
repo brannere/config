@@ -1,0 +1,19 @@
+"set mouse=a
+set number
+"nnoremap <C-L> :nohl<CR><C-L>
+set tabstop=2
+set autoindent
+set ignorecase
+set smartcase
+filetype indent plugin on
+syntax on
+colorscheme industry
+set colorcolumn=80
+hi ColorColumn ctermbg=lightcyan guibg=blue
+
+"shorten command for swapping between split views
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-H> <C-W><C-H>
+
