@@ -17,3 +17,6 @@ nnoremap <C-K> <C-W><C-K>
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-H> <C-W><C-H>
 
+"Things I have needed for remote servers
+"inoremap <Char-0x07f> <BS>
+"nnoremap <Char-0x07f> <BS>
